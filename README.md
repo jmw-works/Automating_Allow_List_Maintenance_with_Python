@@ -78,9 +78,4 @@ This project was completed as part of my cybersecurity portfolio to demonstrate 
 
 [FULL-LAB Walkthrough](https://github.com/jmw-works/Automating_Allow_List_Maintenance_with_Python/blob/main/FULL_LAB.md#update-a-file-through-a-python-algorithm)
 
----
-
-## License
-
-MIT License
 
