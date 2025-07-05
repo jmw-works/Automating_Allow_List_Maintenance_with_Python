@@ -1,12 +1,12 @@
 # README.md
 
-## 🔐 Automating Allow List Maintenance with Python
+## Automating Allow List Maintenance with Python
 
 This project showcases a simple yet powerful Python script designed to help cybersecurity professionals manage and sanitize allow lists of IP addresses. With automation becoming increasingly important in secure environments, this lab demonstrates how to safely update a file-based IP allow list by removing any entries found in a separate block or removal list.
 
 ---
 
-## 📁 About the Project
+## About the Project
 
 In real-world security environments, teams often manage lists of approved IP addresses that are allowed to access sensitive content. Over time, certain IPs must be revoked due to changes in policy, threat detection, or decommissioned devices.
 
@@ -21,7 +21,7 @@ The entire process is efficient, secure, and Pythonic.
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - **Safe File Handling** using Python's `with` context manager
 - **Efficient Filtering** with a list comprehension
@@ -30,7 +30,7 @@ The entire process is efficient, secure, and Pythonic.
 
 ---
 
-## 🚀 Example Code
+## Example Code
 
 ```python
 def update_file(import_file, remove_list):
@@ -47,7 +47,7 @@ def update_file(import_file, remove_list):
 
 ---
 
-## ✅ Why This Matters
+## Why This Matters
 
 This lab highlights:
 
@@ -57,7 +57,7 @@ This lab highlights:
 
 ---
 
-## 📎 How to Use
+## How to Use
 
 1. Create or supply a text file named `allow_list.txt` containing space- or line-separated IP addresses.
 2. Define a Python list of IPs to remove:
@@ -72,7 +72,7 @@ This lab highlights:
 
 ---
 
-## 👨‍💻 Author Notes
+## Author Notes
 
 This project was completed as part of my cybersecurity portfolio to demonstrate my ability to write clean, maintainable Python code for real-world security operations tasks.
 
@@ -80,7 +80,7 @@ See the `FULL_LAB.md` file for an educational walkthrough.
 
 ---
 
-## 📜 License
+## License
 
 MIT License
 
