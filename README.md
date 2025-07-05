@@ -30,7 +30,7 @@ The entire process is efficient, secure, and Pythonic.
 
 ---
 
-## Example Code
+## Python Code (without notation)
 
 ```python
 def update_file(import_file, remove_list):
