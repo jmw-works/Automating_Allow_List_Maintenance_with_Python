@@ -76,7 +76,7 @@ This lab highlights:
 
 This project was completed as part of my cybersecurity portfolio to demonstrate my ability to write clean, maintainable Python code for real-world security operations tasks.
 
-See the `FULL_LAB.md` file for an educational walkthrough.
+[FULL-LAB Walkthrough](https://github.com/jmw-works/Automating_Allow_List_Maintenance_with_Python/blob/main/FULL_LAB.md#update-a-file-through-a-python-algorithm)
 
 ---
 
